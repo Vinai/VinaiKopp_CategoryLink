@@ -42,7 +42,7 @@ Any contributions are highly appreciated. The best way to contribute code is to 
 Developer
 ---------
 Vinai Kopp  
-[http://www.netzarbeiter.com](http://www.netzarbeiter.com)  
+[http://vinaikopp.com](http://vinaikopp.com)  
 [@VinaiKopp](https://twitter.com/VinaiKopp)  
 
 Licence
