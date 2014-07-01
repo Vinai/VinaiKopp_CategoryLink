@@ -20,6 +20,8 @@ One possible use case for example is to add links to CMS pages to the top naviga
 Compatibility
 -------------
 - Magento >= 1.6
+- No class rewrites, only event observers.
+- Works with and without the flat catalog category tables.
 
 Installation Instructions
 -------------------------
