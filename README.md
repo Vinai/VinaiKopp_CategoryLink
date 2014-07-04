@@ -29,6 +29,7 @@ Installation Instructions
 2. Unpack the extension ZIP file in your Magento root directory.
 3. Clear the cache.
 4. If you use the Magento compiler, recompile.
+5. Regenerate the category flat table index (if you use the flat category table)
 
 Support
 -------
