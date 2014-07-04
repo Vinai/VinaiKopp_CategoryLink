@@ -12,7 +12,7 @@ Facts
 Description
 -----------
 This module adds allows the administrator to optionally specify an URL for a category.  
-The URL can be internal, without the domain, or external, with a domain name.  
+The URL has to be fully qualified with schema (e.g. http://) and a domain name.  
 If an URL is specified on a category, then whenever a link to the category is rendered (for example in the top navigation), the specified URL will be used instead of the original "real" URL.  
 
 One possible use case for example is to add links to CMS pages to the top navigation.
