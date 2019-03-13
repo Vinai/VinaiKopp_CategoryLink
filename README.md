@@ -1,3 +1,8 @@
+# This Magento 1 extension is orphaned, unsupported and no longer maintained.
+
+If you use it, you are effectively adopting the code for your own project.
+
+
 Category Link URL
 =================
 Add the ability to optionally specify external or internal URL's for categories that will be used instead of the "real" category URL whenever a link to the category is rendered.  
